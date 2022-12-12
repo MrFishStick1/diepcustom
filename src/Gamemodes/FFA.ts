@@ -25,6 +25,7 @@ import { ArenaFlags } from "../Const/Enums"
 export default class FFAArena extends ArenaEntity {
     public constructor(game: GameServer) {
         super(game);
+
         this.arenaData.values.flags |= ArenaFlags.canUseCheats;
     }
 }

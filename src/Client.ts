@@ -329,7 +329,7 @@ export default class Client {
                     player.entityState |= EntityStateFlags.needsCreate | EntityStateFlags.needsDelete;
                 }
                 if ((flags & InputFlags.switchtank) && !(previousFlags & InputFlags.switchtank)) {
-                    if (this.accessLevel >= config.AccessLevel.PublicAccess || (this.game.arena.arenaData.values.flags & ArenaFlags.canUseCheats)) {
+                    if (this.accessLevel == config.AccessLevel.PublicAccess || (this.game.arena.arenaData.values.flags & ArenaFlags.canUseCheats)) {
                         this.setHasCheated(true);
                         
                         let tank = player.currentTank;
