@@ -81,7 +81,7 @@ const DevTankDefinitions: TankDefinition[] = [
         flags: {
             invisibility: false,
             zoomAbility: false,
-            devOnly: false
+            devOnly: true
         },
         visibilityRateShooting: 0.23,
         visibilityRateMoving: 0,
@@ -266,7 +266,7 @@ const DevTankDefinitions: TankDefinition[] = [
         flags: {
             invisibility: false,
             zoomAbility: false,
-            devOnly: false
+            devOnly: true
         },
         visibilityRateShooting: 0.23,
         visibilityRateMoving: 0,
@@ -320,7 +320,7 @@ const DevTankDefinitions: TankDefinition[] = [
         flags: {
             invisibility: false,
             zoomAbility: false,
-            devOnly: false
+            devOnly: true
         },
         visibilityRateShooting: 0,
         visibilityRateMoving: 0,
@@ -533,7 +533,7 @@ const DevTankDefinitions: TankDefinition[] = [
         flags: {
             invisibility: false,
             zoomAbility: false,
-            devOnly: false
+            devOnly: true
         },
         visibilityRateShooting: 0.23,
         visibilityRateMoving: 0.08,
@@ -664,7 +664,7 @@ const DevTankDefinitions: TankDefinition[] = [
         flags: {
             invisibility: false,
             zoomAbility: false,
-            devOnly: false
+            devOnly: true
         },
         visibilityRateShooting: 0.23,
         visibilityRateMoving: 0.08,
@@ -789,7 +789,7 @@ const DevTankDefinitions: TankDefinition[] = [
         flags: {
             invisibility: true,
             zoomAbility: false,
-            devOnly: false
+            devOnly: true
         },
         visibilityRateShooting: 0.4,
         visibilityRateMoving: 0.24,
@@ -1163,7 +1163,7 @@ const DevTankDefinitions: TankDefinition[] = [
         flags: {
             invisibility: false,
             zoomAbility: false,
-            devOnly: false
+            devOnly: true
         },
         visibilityRateShooting: 0.23,
         visibilityRateMoving: 0.08,
@@ -1217,7 +1217,7 @@ const DevTankDefinitions: TankDefinition[] = [
         flags: {
             invisibility: false,
             zoomAbility: false,
-            devOnly: false
+            devOnly: true
         },
         visibilityRateShooting: 0.23,
         visibilityRateMoving: 0.08,
@@ -1607,7 +1607,7 @@ const DevTankDefinitions: TankDefinition[] = [
         flags: {
             invisibility: false,
             zoomAbility: false,
-            devOnly: false
+            devOnly: true
         },
         visibilityRateShooting: 0.23,
         visibilityRateMoving: 0.08,
@@ -1776,7 +1776,7 @@ const DevTankDefinitions: TankDefinition[] = [
         flags: {
             invisibility: false,
             zoomAbility: false,
-            devOnly: false
+            devOnly: true
         },
         visibilityRateShooting: 0.23,
         visibilityRateMoving: 0.08,

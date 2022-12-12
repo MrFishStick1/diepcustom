@@ -2185,7 +2185,7 @@ const TankDefinitions = JSON.parse(`[
             "invisibility": false,
             "zoomAbility": false,
             "canClaimSquares": false,
-            "devOnly": false
+            "devOnly": true
         },
         "visibilityRateShooting": 0.23,
         "visibilityRateMoving": 0.08,
@@ -5693,7 +5693,7 @@ const TankDefinitions = JSON.parse(`[
             "invisibility": false,
             "zoomAbility": false,
             "canClaimSquares": false,
-            "devOnly": false
+            "devOnly": true
         },
         "visibilityRateShooting": 0.23,
         "visibilityRateMoving": 0.08,
@@ -5775,7 +5775,7 @@ const TankDefinitions = JSON.parse(`[
             "invisibility": false,
             "zoomAbility": false,
             "canClaimSquares": false,
-            "devOnly": false
+            "devOnly": true
         },
         "visibilityRateShooting": 0.23,
         "visibilityRateMoving": 0.08,
@@ -5901,7 +5901,7 @@ const TankDefinitions = JSON.parse(`[
             "invisibility": false,
             "zoomAbility": false,
             "canClaimSquares": false,
-            "devOnly": false
+            "devOnly": true
         },
         "visibilityRateShooting": 0.23,
         "visibilityRateMoving": 0.08,
