@@ -4532,7 +4532,7 @@ const TankDefinitions = JSON.parse(`[
     {
         "id": 34,
         "name": "Mega Trapper",
-        "upgradeMessage": "",
+        "upgradeMessage": "nigger",
         "levelRequirement": 45,
         "upgrades": [],
         "flags": {
@@ -4618,7 +4618,7 @@ const TankDefinitions = JSON.parse(`[
         "levelRequirement": 45,
         "upgrades": [],
         "flags": {
-            "invisibility": false,
+            "invisibility": true,
             "zoomAbility": false,
             "canClaimSquares": false,
             "devOnly": false
